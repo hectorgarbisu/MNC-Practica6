@@ -1,0 +1,10 @@
+﻿Compilación iniciada a las 20/10/2015 10:56:34.
+     1>Proyecto "c:\Users\usuario\documents\visual studio 2013\Projects\HolaOpenMP\HolaOpenMP\HolaOpenMP.vcxproj" en el nodo 2 (Build destinos).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\usuario\documents\visual studio 2013\Projects\HolaOpenMP\Debug\HolaOpenMP.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\usuario\documents\visual studio 2013\Projects\HolaOpenMP\Debug\HolaOpenMP.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\usuario\documents\visual studio 2013\Projects\HolaOpenMP\Debug\HolaOpenMP.lib" /MACHINE:X86 Debug\HolaOpenMP.obj
+         HolaOpenMP.vcxproj -> c:\users\usuario\documents\visual studio 2013\Projects\HolaOpenMP\Debug\HolaOpenMP.exe
+     1>Compilación del proyecto terminada "c:\Users\usuario\documents\visual studio 2013\Projects\HolaOpenMP\HolaOpenMP\HolaOpenMP.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.37
